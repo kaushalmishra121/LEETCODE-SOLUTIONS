@@ -7,6 +7,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -16,4 +17,12 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
