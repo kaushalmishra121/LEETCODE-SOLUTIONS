@@ -32,6 +32,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | ------- |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -42,4 +43,8 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | ------- |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
