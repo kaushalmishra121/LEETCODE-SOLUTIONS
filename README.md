@@ -31,8 +31,13 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
