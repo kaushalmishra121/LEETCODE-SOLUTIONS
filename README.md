@@ -36,6 +36,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | [0278-first-bad-version](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -45,9 +46,14 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | ------- |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
