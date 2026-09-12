@@ -32,6 +32,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
