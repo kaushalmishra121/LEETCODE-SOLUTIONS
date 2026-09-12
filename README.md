@@ -39,6 +39,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
@@ -50,6 +51,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
