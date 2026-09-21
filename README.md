@@ -39,6 +39,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
@@ -59,6 +60,7 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
@@ -82,4 +84,8 @@ LEARNING DSA AND SOLVING LEETCODE QUESTIONS
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushalmishra121/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
